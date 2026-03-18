@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my skills in SQL, Python, and Data Analytics<br><br>👯 I’m looking to collaborate on data analysis projects and beginner-friendly open source<br><br>🤝 I’m looking for help with real-world data projects and interview preparation<br><br>🌱 I’m currently learning Data Structures & Algorithms, Python, and Advanced SQL<br><br>💬 Ask me about SQL, Python basics, Excel, and Data Analytics<br><br>⚡ Fun fact: I’m on a mission to become a Data Analyst and achieve ₹10+ LPA within 2 years 🚀
+🔭 I’m currently working on improving my skills in SQL, Python, and Data Analytics<br><br>👯 I’m looking to collaborate on data analysis projects and beginner-friendly open source<br><br>🤝 I’m looking for help with real-world data projects and interview preparation<br><br>🌱 I’m currently learning Data Structures & Algorithms, Python, and Advanced SQL<br><br>💬 Ask me about SQL, Python , Excel, and Data Analytics<br><br>⚡ Fun fact: I’m on a mission to become a Data Analyst and achieve ₹10+ LPA within 2 years 🚀
 
 
 # 💻 Tech Stack:
